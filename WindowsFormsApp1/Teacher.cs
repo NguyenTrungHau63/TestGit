@@ -8,5 +8,6 @@ namespace WindowsFormsApp1
 {
     internal class Teacher
     {
+        int a = 15;
     }
 }
